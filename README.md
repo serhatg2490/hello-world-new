@@ -8,3 +8,5 @@ It now includes steps for GitHub
 This is a line to demonstrate pull operation
 
 amend update 1
+This is a line to demonstrate push branch to github operation
+
