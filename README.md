@@ -8,3 +8,6 @@ It now includes steps for GitHub
 This is a line to demonstrate pull operation
 
 amend update 1
+combine update 1
+combine update 2
+
