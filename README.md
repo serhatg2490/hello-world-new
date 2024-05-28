@@ -6,3 +6,5 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
 This is a line to demonstrate pull operation
+
+amend update 1
