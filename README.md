@@ -9,4 +9,7 @@ This is a line to demonstrate pull operation
 
 amend update 1
 This is a line to demonstrate push branch to github operation
+combine update 1
+combine update 2
+reflog update 1
 
